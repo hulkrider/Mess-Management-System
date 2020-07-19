@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MESS MANAGEMENT SYSTEM</string>
+
+
+    <string-array name="select">
+        <item>Student</item>
+        <item>Faculty</item>
+        <item>Mess InCharge</item>
+
+    </string-array>
+</resources>

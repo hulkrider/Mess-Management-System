@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "939366831178",
+    "firebase_url": "https://mess-management-system-5fcf6.firebaseio.com",
+    "project_id": "mess-management-system-5fcf6",
+    "storage_bucket": "mess-management-system-5fcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939366831178:android:9020fae0bbb58181a082b3",
+        "android_client_info": {
+          "package_name": "com.example.messmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939366831178-h5u0ou8d8p6u1u4clldohbjl4pttelkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messmanagementsystem",
+            "certificate_hash": "6aa78bcbb2c875f8270bc3ec6919145a816b2093"
+          }
+        },
+        {
+          "client_id": "939366831178-p3jjmvflhponlrkv4ueqdoo7rqi2i5br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messmanagementsystem",
+            "certificate_hash": "43acf78f74c6c2799c542f988b983d9137a15141"
+          }
+        },
+        {
+          "client_id": "939366831178-7k7k93kebvvb4ga4pbdouq351lqdiof8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHGieKfyrr9Mn9bEdqrsJQi5j5CmK_XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939366831178-7k7k93kebvvb4ga4pbdouq351lqdiof8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

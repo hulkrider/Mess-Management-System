@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".User_Type">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:srcCompat="@drawable/logo">
+
+            </ImageView>
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHOOSE THE TYPE OF USER"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_marginTop="30dp">
+
+        </TextView>
+
+        <Button
+            android:id="@+id/btnstudent"
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="50dp"
+            android:text="STUDENT">
+
+        </Button>
+
+        <Button
+            android:id="@+id/btnfaculty"
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="25dp"
+            android:text="FACULTY">
+
+
+        </Button>
+
+        <Button
+            android:id="@+id/btnmessincharge"
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="25dp"
+            android:text="Mess Incharge">
+
+        </Button>
+    </LinearLayout>
+</ScrollView>
